@@ -4,5 +4,6 @@
 package org.example;
 
 public interface SkyAnimal  extends Animal {
+    /** skyanimal given a flies characteristc*/
     String Flies();
 }

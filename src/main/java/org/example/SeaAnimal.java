@@ -4,5 +4,6 @@
 package org.example;
 
 public interface SeaAnimal  extends Animal {
+    /** seaanimal given a swim charcatreistic*/
     String Swims();
 }

@@ -4,5 +4,6 @@
 package org.example;
 
 public interface LandAnimal extends Animal {
+    /** land animal given a walks characteristic*/
     String Walks();
 }
